@@ -6,8 +6,10 @@
     My name is <a class="font-serif italic hover:text-[#C7CEFF] transition-all" href="https://bridger.info">Bridger Tower</a> and I created Zion Design and Development in 2018.  Since it's birth, Zion has designed, developed, and consulted for numerous companies. 
 </p>
 
-<div class="w-full mt-24">
-    <h2 class="pt-8 text-[#C7CEFF]">Zion Specializes in <span class="font-serif italic">Marketing</span>, <span class="font-serif italic">Design</span>, and <span class="font-serif italic">Developement</span></h2>
+<img class="py-12" src="https://images.unsplash.com/photo-1497412159286-98933a0e327f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2335&q=80" alt="mountains and clouds">
+
+<div class="w-full">
+    <h2 class="pb-4">Zion Specializes in <span class="font-serif italic">Marketing</span>, <span class="font-serif italic">Design</span>, and <span class="font-serif italic">Developement</span></h2>
 
     <p class="italic font-serif pb-2 text-lg">For Example:</p>
 
@@ -30,15 +32,22 @@
     </ul>
 </div>
 
-<p class="pt-12 pb-4 font-serif italic text-lg">Fill out this form to get started with Zion Design and Development.</p>
-
-<a class="w-fit pb-2 block flex border-b hover:text-[#C7CEFF] hover:border-[#C7CEFF]" href="https://start.ziondesign.io">
-    <div class="hover:pr-2 transition-all">Get Started</div> 
+<section class="flex gap-4">
+    <a class="w-fit pb-2 pt-12 block flex border-b hover:text-[#C7CEFF] hover:border-[#C7CEFF]" href="https://start.ziondesign.io">
+    <div class="hover:pr-2 transition-all">Get a Project Quote</div> 
     <svg width="24" height="24" fill="none" viewBox="0 0 24 24">
     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M17.25 15.25V6.75H8.75"></path>
     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M17 7L6.75 17.25"></path>
     </svg>
 </a>
+<a class="w-fit pb-2 pt-12 block flex border-b hover:text-[#C7CEFF] hover:border-[#C7CEFF]" href="mailto:bridger@ziondesign.io">
+    <div class="hover:pr-2 transition-all">Send an Email</div> 
+    <svg width="24" height="24" fill="none" viewBox="0 0 24 24">
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M17.25 15.25V6.75H8.75"></path>
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M17 7L6.75 17.25"></path>
+    </svg>
+</a>
+</section>
 
 <footer class="py-32 text-sm italic font-light">
     © Zion Design LLC, 2018-Present | Created by <a class="font-serif italic hover:text-[#C7CEFF] transition-all" href="https://bridger.info">Bridger Tower</a>
