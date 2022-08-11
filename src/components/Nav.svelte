@@ -1,4 +1,4 @@
-<nav class="sticky top-0 flex justify-between items-center">
+<nav class="sticky top-0 flex justify-between items-center pt-8">
     <a href="/">
         <img class="w-12" src="./logo.svg" alt="Zion Logo">
     </a>
