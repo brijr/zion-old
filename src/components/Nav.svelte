@@ -5,3 +5,7 @@
 
     <a class="px-4 py-1 hover:text-[#C7CEFF] hover:font-serif transition-all rounded-lg backdrop-blur-md bg-neutral-800 bg-opacity-75" href="/work">Work</a>
 </nav>
+
+<section class="absolute bottom-0 bg-neutral-700 py-2 px-8 rounded-xl my-4">
+<p>This site is currently under construction.</p>
+</section>
