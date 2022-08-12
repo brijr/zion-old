@@ -64,6 +64,7 @@
     © Zion Design LLC, 2018-Present | Created by <a class="font-serif italic hover:text-[#C7CEFF] transition-all" href="https://bridger.info">Bridger Tower</a>
 </footer>
 
+
 <style>
     h1 {
         font-size: 2em;
