@@ -2,7 +2,6 @@
     <h1>Zion is a <span class="font-serif italic">Design</span> and <span class="font-serif italic">Developement</span> Collective located in Salt Lake City, Utah.</h1>
 </section>
 
-
 <p class="font-light">
     My name is <a class="font-serif italic hover:text-[#C7CEFF] transition-all" href="https://bridger.info">Bridger Tower</a> and I created Zion Design and Development in 2018.  Since it's birth, Zion has designed, developed, and consulted for numerous companies. 
 </p>
@@ -52,13 +51,13 @@
 
 <h2 class="pt-12">Contact <span class="font-serif italic">Zion</span></h2>
 <iframe
-  src="https://tally.so/embed/wb5KrZ?alignLeft=1&hideTitle=1&transparentBackground=1"
-  width="100%"
-  height="500px"
-  frameborder="0"
-  marginheight="0"
-  marginwidth="0"
-  title="Shoot me a Note">
+    src="https://tally.so/embed/wb5KrZ?alignLeft=1&hideTitle=1&transparentBackground=1"
+    width="100%"
+    height="500px"
+    frameborder="0"
+    marginheight="0"
+    marginwidth="0"
+    title="Shoot me a Note">
 </iframe>
 
 <footer class="py-32 text-sm italic font-light">

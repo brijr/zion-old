@@ -19,7 +19,7 @@
 <h1>{@html $blogPosts[index].title}</h1>
 
 <div class="flex justify-between">
-    <h3 class="text-lg">Written by <a href="https://bridger.info">Bridger Tower</a></h3>
+    <h3 class="text-lg">Written by <a href="https://brijr.dev">Bridger Tower</a></h3>
     <h4 class="text-lg ">{@html $blogPosts[index].date.substring(0, $blogPosts.length - 0)}</h4>
 </div>
 
