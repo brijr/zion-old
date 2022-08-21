@@ -39,8 +39,8 @@
 <!-- Work Examples -->
 <section class="my-12">
     <h3 class="font-serif p-0 m-0">Other Recent Work</h3>
-    <a class="hover:pl-6 transition-all block mb-4 pl-4 border-l border-l-white" href="http://hustlecoin.io">Branding and Web Development for HustleCoin</a>
-    <a class="hover:pl-6 transition-all block mb-4 pl-4 border-l border-l-white" href="http://socal.flights">Branding and Web Development for SoCal.Flights</a>
+    <a class="hover:pl-6 transition-all block mb-4 pl-4 border-l border-l-white" href="http://hustlecoin.io">Branding and Web Development for <span class="font-serif italic">HustleCoin</span></a>
+    <a class="hover:pl-6 transition-all block mb-4 pl-4 border-l border-l-white" href="http://socal.flights">Branding and Web Development for <span class="font-serif italic">SoCal.Flights</span></a>
 
 </section>
 
