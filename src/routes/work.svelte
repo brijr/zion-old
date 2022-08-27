@@ -47,8 +47,6 @@
     </a>
 </section>
 
-
-
 <!-- image -->
 <img class="py-12" src="https://images.unsplash.com/photo-1604515586704-3e8d954b47ec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" alt="ocean water in black and white">
 
@@ -57,13 +55,11 @@
     <h3 class="font-serif p-0 m-0">Some Recent Work</h3>
     <a class="hover:pl-6 transition-all block mb-4 pl-4 border-l border-l-white" href="http://hustlecoin.io">Branding and Web Development for <span class="font-serif italic">HustleCoin</span></a>
     <a class="hover:pl-6 transition-all block mb-4 pl-4 border-l border-l-white" href="http://socal.flights">Branding and Web Development for <span class="font-serif italic">SoCal.Flights</span></a>
-
 </section>
 
 <!-- Design Feed -->
 <section class="my-12">
     <h3 class="font-serif p-0 m-0">Zion Design Feed™</h3>
-
     <Dribbble />
 </section>
 
