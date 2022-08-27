@@ -23,7 +23,9 @@
 
 <!-- H1 -->
 <section class="my-12 pl-6 border-l border-l-white">
-    <h1>We have worked with some <span class="font-serif italic">amazing</span> companies throughout North America.</h1>
+    <h1>
+        We have worked with some <span class="font-serif italic">amazing</span> companies throughout North America.
+    </h1>
 </section>
 
 <!-- intro to page -->
