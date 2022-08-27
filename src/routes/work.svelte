@@ -28,7 +28,7 @@
 
 <!-- intro to page -->
 <p class="font-light">
-    Check out the companies Zion has worked with in the past below. Follow the links to see more of the work.
+    Check out some of the companies Zion has worked with in the past below. Follow the links to see more of the work.
 </p>
 
 <section class="flex gap-4">
