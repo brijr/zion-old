@@ -1,30 +1,9 @@
 <script>
-    import { onMount } from "svelte/internal";
-    import jribbble from 'jribbble/dist/jribbble.min.js'
 
-    onMount(() => {
-        // @ts-ignore
-        jribbble.shots({token: "b855d7b61befd81f191487147eb60df8d6d0cc625bb978fda8a3f73eeddc9653"}, function(shots) {
-            // @ts-ignore
-            document.querySelector(".dribbble-shots-list").innerHTML = shots.reduce(function(html, shot) {
-                return html + '<li class="dribbble-shot"><a href="'+  shot.html_url + '" target="_blank"><img class="dribbble-img" src="' + shot.images.normal + '"></a></li>';
-    }, "");
-});
-    })
+import Dribbble from "../components/Dribbble.svelte";
+
 </script>
-
-<svelte:head>
-    <script src="jribbble/dist/jribbble.min.js"></script>
-</svelte:head>
-
-
-
 <style>
-    .dribbble-shots-list {
-        display: grid; 
-        grid-template-columns: repeat(3, 1fr);
-        gap: 0.5rem;
-    }
 
     h1 {
         font-size: 2em;
@@ -87,7 +66,7 @@
 <section class="my-12">
     <h3 class="font-serif p-0 m-0">Zion Design Feed™</h3>
 
-    <ul class="dribbble-shots-list"></ul>
+    <Dribbble />
 </section>
 
 <!-- footer -->
