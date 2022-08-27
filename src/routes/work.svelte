@@ -1,10 +1,8 @@
 <script>
-
-import Dribbble from "../components/Dribbble.svelte";
-
+    import Dribbble from "../components/Dribbble.svelte";
 </script>
-<style>
 
+<style>
     h1 {
         font-size: 2em;
         margin: 1rem 0;

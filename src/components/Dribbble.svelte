@@ -4,7 +4,7 @@
 
     onMount(() => {
         // @ts-ignore
-        jribbble.shots({token: "b855d7b61befd81f191487147eb60df8d6d0cc625bb978fda8a3f73eeddc9653"}, function(shots) {
+        jribbble.shots({token: import.meta.env.VITE_JRIBBBLE}, function(shots) {
             // @ts-ignore
             document.querySelector(".dribbble-shots-list").innerHTML = shots.reduce(function(html, shot) {
                 return html + '<li class="dribbble-shot"><a href="'+  shot.html_url + '" target="_blank"><img class="dribbble-img" src="' + shot.images.normal + '"></a></li>';
