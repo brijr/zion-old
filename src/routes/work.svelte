@@ -1,10 +1,5 @@
-<svelte:head>
-    <script src="jribbble/dist/jribbble.min.js"></script>
-</svelte:head>
-
 <script>
     import { onMount } from "svelte/internal";
-    
     import jribbble from 'jribbble/dist/jribbble.min.js'
 
     onMount(() => {
@@ -17,6 +12,12 @@
 });
     })
 </script>
+
+<svelte:head>
+    <script src="jribbble/dist/jribbble.min.js"></script>
+</svelte:head>
+
+
 
 <style>
     .dribbble-shots-list {
