@@ -1,6 +1,6 @@
-<script>
+<!-- <script>
     import Dribbble from "../components/Dribbble.svelte";
-</script>
+</script> -->
 
 <style>
     h1 {
@@ -63,7 +63,7 @@
 <!-- Design Feed -->
 <section class="my-12">
     <h3 class="font-serif p-0 m-0">Zion Design Feed™</h3>
-    <Dribbble />
+    
 </section>
 
 <!-- footer -->
