@@ -26,7 +26,7 @@
 <img class="py-12" src="https://images.unsplash.com/photo-1497412159286-98933a0e327f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2335&q=80" alt="mountains and clouds">
 
 <div class="w-full">
-    <h2 class="pb-4">Zion Specializes in <span class="font-serif italic">Marketing</span>, <span class="font-serif italic">Design</span>, and <span class="font-serif italic">Developement</span></h2>
+    <h2 class="pb-4">Zion Specializes in <span class="font-serif italic">Marketing</span>, <span class="font-serif italic">Design</span>, and <span class="font-serif italic">Development</span></h2>
 
     <p class="italic font-serif pb-2 text-lg">For Example:</p>
 
@@ -38,7 +38,7 @@
             Landing Pages and Conversion Rate Optimization
         </li>
         <li>
-            Website Design and Developement
+            Website Design and Development
         </li>
         <li>
             Search Engine Optimization
