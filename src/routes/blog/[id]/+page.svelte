@@ -1,5 +1,5 @@
 <script context="module">
-    export async function load({params}) {
+    export async function load({ params }) {
         return {
             props: {
                 id: params.id
@@ -9,8 +9,7 @@
 </script>
 
 <script>
-    import { blogPosts } from '../../stores/medium'
-
+    import { blogPosts } from 'src/stores/medium.js'
     export let id;
 
     let index = id - 1;
