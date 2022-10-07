@@ -15,7 +15,7 @@
     </svg>
 </a>
 <a class="w-fit pb-2 pt-12 flex border-b hover:text-[#C7CEFF] hover:border-[#C7CEFF]" href="mailto:bridger@ziondesign.io">
-    <div class="hover:pr-2 transition-all">Send us an Email</div> 
+    <div class="hover:pr-2 transition-all">Send Zion an Email</div> 
     <svg width="24" height="24" fill="none" viewBox="0 0 24 24">
     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M17.25 15.25V6.75H8.75"></path>
     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M17 7L6.75 17.25"></path>
@@ -41,7 +41,7 @@
             Website Design and Developement
         </li>
         <li>
-            Search Enging Optimization
+            Search Engine Optimization
         </li>
         <li>
             Graphic and Digital Design
