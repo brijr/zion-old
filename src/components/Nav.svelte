@@ -10,6 +10,6 @@
     </div>
 </nav>
 
-<section class="fixed text-xs bottom-0 bg-neutral-700 py-2 px-4 rounded-xl my-4">
-<p>This site is currently under construction.</p>
-</section>
+<!-- <section class="fixed font-serif text-sm bottom-0 bg-neutral-700 py-2 px-4 rounded-xl my-4">
+<p>Created by <a class="underline" href="https://b98.io">Bridger Tower</a></p>
+</section> -->
