@@ -68,7 +68,7 @@
     <h3 class="font-serif p-0 m-0">Zion Design Feed™</h3>
     <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fldk5ayL8rhjzmi8KX5SoSg%2F%257B-All-Logos-by-BT-%257D%3Fnode-id%3D0%253A1" allowfullscreen/>
 
-    <img src="https://cdn.dribbble.com/users/1311269/screenshots/13977059/media/758303fe3ad0f33f0f992a3c01500c08.png?compress=1&resize=800x600&vertical=top" alt="Brand for Global Politics Lab">
+    <!-- <img src="https://cdn.dribbble.com/users/1311269/screenshots/13977059/media/758303fe3ad0f33f0f992a3c01500c08.png?compress=1&resize=800x600&vertical=top" alt="Brand for Global Politics Lab">
     <img src="https://cdn.dribbble.com/users/1311269/screenshots/19129043/media/daf26df30b754773c8cd65e00a77049a.jpg?compress=1&resize=1600x1200&vertical=top" alt="Brand for Wave House">
     <img src="https://cdn.dribbble.com/users/1311269/screenshots/19129048/media/078d83c22088533c8a041d482293cb26.jpg?compress=1&resize=1600x1200&vertical=top" alt="Brand for Jadevine">
     <img src="https://cdn.dribbble.com/users/1311269/screenshots/19129055/media/cd7c3472f603d41c0c2dbef2af649114.jpg?compress=1&resize=1600x1200&vertical=top" alt="Zion Design Logo">
@@ -78,7 +78,7 @@
     <img src="https://cdn.dribbble.com/users/1311269/screenshots/19231201/media/1abf95a3ca5b656447e1beef4f1c1cb3.jpg?compress=1&resize=1600x1200&vertical=top" alt="wen design for ampry.com">
     <img src="https://cdn.dribbble.com/users/1311269/screenshots/19231296/media/c5b841895fca69430955c033423c162d.jpg?compress=1&resize=1600x1200&vertical=top" alt="clothing design">
     <img src="https://cdn.dribbble.com/users/1311269/screenshots/19231212/media/8324a8424c833fb6c4595d8b6560a6df.jpg?compress=1&resize=1600x1200&vertical=top" alt="brand desing for Inovation Exchange">
-    <img src="https://cdn.dribbble.com/users/1311269/screenshots/19231308/media/1fbe47741a373cfe297b003178045a69.jpg?compress=1&resize=1600x1200&vertical=top" alt="Let God Prevail branding and website">
+    <img src="https://cdn.dribbble.com/users/1311269/screenshots/19231308/media/1fbe47741a373cfe297b003178045a69.jpg?compress=1&resize=1600x1200&vertical=top" alt="Let God Prevail branding and website"> -->
 
 </section>
 
